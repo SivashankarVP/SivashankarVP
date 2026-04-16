@@ -143,9 +143,8 @@ Tools I use daily for development, version control, and collaboration.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SivashankarVP/SivashankarVP/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SivashankarVP/SivashankarVP/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 ---
 
 ## 💡 Quote
