@@ -30,6 +30,31 @@
 
 ---
 
+## ⚡ Quick Snapshot
+
+- 🧑‍💻 **Role:** Creative Web Developer  
+- 🎓 **Education:** MCA Student  
+- 🧠 **Focus:** Full Stack + AI  
+- 📍 **Location:** India  
+
+---
+
+## 🚀 Currently Working On
+
+- 🧠 AI Outfit Recommendation System  
+- ⚡ Real-time AI-based applications  
+- 📱 UI/UX focused web apps  
+
+---
+
+## 📈 Goals 2026
+
+- 🔥 Crack a top product-based company  
+- 🚀 Build impactful AI projects  
+- 💡 Become a strong full stack engineer  
+
+---
+
 ## 🚀 What Makes Me Different
 
 ✔️ I build **real-world, problem-solving projects** — not just tutorials  
