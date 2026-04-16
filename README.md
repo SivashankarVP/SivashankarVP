@@ -20,7 +20,6 @@
   </p>
 
   <p>
-    🎯 Currently building <b>AI-Based Outfit Recommendation System</b><br/>
     🚀 Focused on <b>Full Stack Development + Artificial Intelligence</b><br/>
     💼 Actively seeking <b>Internships & Career Opportunities</b>
   </p>
@@ -39,22 +38,6 @@
 
 ---
 
-## 🚀 Currently Working On
-
-- 🧠 AI Outfit Recommendation System  
-- ⚡ Real-time AI-based applications  
-- 📱 UI/UX focused web apps  
-
----
-
-## 📈 Goals 2026
-
-- 🔥 Crack a top product-based company  
-- 🚀 Build impactful AI projects  
-- 💡 Become a strong full stack engineer  
-
----
-
 ## 🚀 What Makes Me Different
 
 ✔️ I build **real-world, problem-solving projects** — not just tutorials  
@@ -69,14 +52,6 @@
 - 🧠 AI-Based Systems & Real-Time Applications  
 - ⚡ Full Stack Development (MERN)  
 - 📱 Designing user-first, intuitive experiences  
-
----
-
-## 💡 Developer Philosophy
-
-> “Build. Break. Improve. Repeat.”
-
-I believe great developers are built through **consistency, curiosity, and real-world execution**.
 
 ---
 
@@ -99,19 +74,6 @@ I believe great developers are built through **consistency, curiosity, and real-
 
 ---
 
-## 🚀 Featured Project
-
-### 🧠 AI Outfit Recommendation System
-> Smart outfit suggestions using AI + real-time weather + user preferences
-
-- 🤖 AI-based personalization  
-- 🌦️ Weather-based recommendations  
-- 🎯 Real-world usability focus  
-
-👉 *(Add your GitHub repo link here)*
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -122,24 +84,12 @@ I believe great developers are built through **consistency, curiosity, and real-
 <h3>💻 Programming Languages</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,sql" />
 
-<br/><br/>
-
-<p>
-Building efficient, scalable applications using modern programming practices.
-</p>
-
 </td>
 
 <td width="50%" align="center">
 
 <h3>📚 Frameworks & Libraries</h3>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
-
-<br/><br/>
-
-<p>
-Creating robust frontend and backend systems with modern frameworks.
-</p>
 
 </td>
 </tr>
@@ -150,12 +100,6 @@ Creating robust frontend and backend systems with modern frameworks.
 <h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
-<br/><br/>
-
-<p>
-Designing optimized and scalable database solutions.
-</p>
-
 </td>
 
 <td width="50%" align="center">
@@ -164,11 +108,7 @@ Designing optimized and scalable database solutions.
 <img src="https://skillicons.dev/icons?i=git,vscode,github" />
 
 <br/><br/>
-
-<p>
-➕ Exploring: <b>Antigravity Learning</b><br/>
-Tools for development, collaboration, and productivity.
-</p>
+➕ Exploring: <b>Antigravity Learning</b>
 
 </td>
 </tr>
@@ -194,22 +134,6 @@ Tools for development, collaboration, and productivity.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SivashankarVP/SivashankarVP/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 💡 Quote
-
-> “Consistency beats talent when talent doesn’t stay consistent.”
-
----
-
-## ❤️ Support
-
-<p align="center">
-  ⭐ Star your favorite repositories  
-  <br/>
-  🤝 Let’s collaborate and build something impactful!
 </p>
 
 ---
