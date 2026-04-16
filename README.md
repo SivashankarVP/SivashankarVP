@@ -6,7 +6,7 @@
 </h1>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Creative+Web+Developer;AI+Enthusiast;MCA+Student;Future+Full+Stack+Engineer&center=false&width=500&height=30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Creative+Web+Developer;AI+Enthusiast;MCA+Student;Future+Full+Stack+Engineer&width=500&height=30"/>
 </h3>
 
 ---
@@ -15,19 +15,14 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I build <b>modern web apps</b> and explore <b>AI-driven solutions</b> that solve real-world problems.  
-    Passionate about creating clean UI, smart systems, and impactful digital products.
+    I build <b>modern, scalable web applications</b> and explore <b>AI-driven solutions</b> that solve real-world problems.  
+    I focus on crafting <b>clean UI</b>, developing <b>smart systems</b>, and delivering <b>impactful digital experiences</b>.
   </p>
 
   <p>
-    🎯 Currently working on <b>AI-based Outfit Recommendation System</b><br/>
-    🚀 Focused on <b>Full Stack + AI Development</b><br/>
-    💼 Open to <b>Internships & Opportunities</b>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:sivashankarvp7@gmail.com"><img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" /></a>
+    🎯 Currently building <b>AI-Based Outfit Recommendation System</b><br/>
+    🚀 Focused on <b>Full Stack Development + Artificial Intelligence</b><br/>
+    💼 Actively seeking <b>Internships & Career Opportunities</b>
   </p>
 </div>
 
@@ -47,6 +42,9 @@
   <a href="https://instagram.com/Sivashankar__007">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram" />
   </a>
+  <a href="mailto:sivashankarvp7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -54,24 +52,77 @@
 ## 🚀 Featured Project
 
 ### 🧠 AI Outfit Recommendation System
-> Smart outfit suggestions based on user preferences & real-time data like weather.
+> Smart outfit suggestions using AI + real-time weather + user preferences
 
-- ⚡ AI-based recommendations  
-- 🌦️ Real-time weather integration  
-- 🎯 Personalized styling  
+- 🤖 AI-based personalization  
+- 🌦️ Weather-based recommendations  
+- 🎯 Real-world usability focus  
 
-👉 *(Add your GitHub repo link here)*
+👉 *(Add your repo link here)*
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,sql,react,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,vscode,figma,postman" />
+<table>
+<tr>
+<td width="50%" align="center">
+
+<h3>💻 Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,sql" />
+
+<br/><br/>
+
+<p>
+I build responsive web interfaces and logic-driven applications using modern programming languages with clean and efficient code practices.
 </p>
 
-<p align="center">
-➕ Exploring: <b>Antigravity Learning</b>
+</td>
+
+<td width="50%" align="center">
+
+<h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
+
+<br/><br/>
+
+<p>
+Experienced in building scalable frontend and backend systems using modern frameworks and component-based architecture.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+<br/><br/>
+
+<p>
+Skilled in designing and managing structured & NoSQL databases for performance and scalability.
+</p>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,vscode,github" />
+
+<br/><br/>
+
+<p>
+➕ Exploring: <b>Antigravity Learning</b><br/>
+Tools I use daily for development, version control, and collaboration.
+</p>
+
+</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -108,9 +159,9 @@
 <p align="center">
   ⭐ Star your favorite repositories  
   <br/>
-  🤝 Let's collaborate and build something amazing!
+  🤝 Let’s collaborate and build something impactful!
 </p>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SivashankarVP&style=flat-square&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=SivashankarVP&style=flat-square&color=blue" />
